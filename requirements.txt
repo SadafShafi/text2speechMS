@@ -3,5 +3,3 @@ kaleido
 python-multipart
 uvicorn
 numpy>=1.23.5
-Flask
-gdown
